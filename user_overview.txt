@@ -1,0 +1,8 @@
+Total tasks: 5
+
+admin
+                Total tasks for user: 3
+                Percentage of total tasks assigned to user: 60.0%
+                Percentage of user tasks completed: 0%
+                Percentage of user tasks uncompleted: 100.0%
+                Percentage of user tasks overdue: 66.67%
