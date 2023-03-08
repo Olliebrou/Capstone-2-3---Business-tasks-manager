@@ -16,6 +16,7 @@ If you do not have an applicable IDE you can download a free version of PyCharm 
 Once the program is running you need to log in as an administrator. 
 You do this by entering 'admin' as the username and then again as the password.
 You can then use the program by entering one of the following:
+
 * r - Registering a user
 * a - Adding a task
 * va - View all tasks
