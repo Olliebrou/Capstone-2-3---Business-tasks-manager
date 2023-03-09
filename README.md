@@ -24,4 +24,4 @@ You can then use the program by entering one of the following:
 * gr - Generate report
 * ds - Display statistics
 
-![screenshot](assets/images/screenshot.png)
+![screenshot](assets/images/Screenshot.png)
